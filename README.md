@@ -4,7 +4,7 @@ A totally radical 90s-style website designed for testing S3 bucket hosting! This
 
 ## 📸 Preview
 
-![90s Website Screenshot](../images/Screenshot%202025-06-05%20171250.png)
+![90s Website Screenshot](../images/image1.png)
 
 *The fully radical 90s website in all its neon glory!*
 
