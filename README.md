@@ -2,6 +2,12 @@
 
 A totally radical 90s-style website designed for testing S3 bucket hosting! This site captures the authentic feel of the early web with all the classic elements that made the 90s internet experience so memorable.
 
+## 📸 Preview
+
+![90s Website Screenshot](../images/Screenshot%202025-06-05%20171250.png)
+
+*The fully radical 90s website in all its neon glory!*
+
 ## 🚀 Features
 
 - **Authentic 90s Design**: Neon colors, gradients, and retro typography
@@ -32,11 +38,14 @@ A totally radical 90s-style website designed for testing S3 bucket hosting! This
 ## 🗂️ File Structure
 
 ```
-public/
-├── index.html      # Main HTML file
-├── styles.css      # 90s-themed CSS styles
-├── script.js       # Interactive JavaScript effects
-└── README.md       # This documentation
+/
+├── public/
+│   ├── index.html      # Main HTML file
+│   ├── styles.css      # 90s-themed CSS styles
+│   ├── script.js       # Interactive JavaScript effects
+│   └── README.md       # This documentation
+└── images/
+    └── Screenshot 2025-06-05 171250.png  # Website preview
 ```
 
 ## 🌐 S3 Hosting Setup
